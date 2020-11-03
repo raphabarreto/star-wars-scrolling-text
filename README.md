@@ -4,19 +4,19 @@
 </h1>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/raphabarreto/json-server-tutorial">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/raphabarreto/star-wars-scrolling-text">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/raphabarreto/json-server-tutorial">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/raphabarreto/star-wars-scrolling-text">
 
-  <a href="https://github.com/raphabarreto/json-server-tutorial/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/raphabarreto/json-server-tutorial">
+  <a href="https://github.com/raphabarreto/star-wars-scrolling-text/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/raphabarreto/star-wars-scrolling-text">
   </a>
 
-  <a href="https://github.com/raphabarreto/json-server-tutorial/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/raphabarreto/json-server-tutorial">
+  <a href="https://github.com/raphabarreto/star-wars-scrolling-text/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/raphabarreto/star-wars-scrolling-text">
   </a>
 
-  <a href="https://github.com/raphabarreto/json-server-tutorial/blob/master/LICENSE.md">
+  <a href="https://github.com/raphabarreto/star-wars-scrolling-text/blob/master/LICENSE.md">
     <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
   <a>
 </p>
@@ -58,17 +58,9 @@ Essa página é só uma demonstração do que podemos fazer com animações, uti
 
 ```bash
 # Clone este repositório
-$ git clone git@github.com:raphabarreto/json-server-tutorial.git
+$ git clone git@github.com:raphabarreto/star-wars-scrolling-text.git
 
-# Navegue para a pasta raiz do projeto e instale as dependências:
-$ yarn install
-
-# Depois disso, execute o comando:
-$ yarn json-server --watch data/db.json
-
-# Vá para o seu navegador e entre com a seguinte URL:
-$ http://127.0.0.1:5500/
-
+# Abre o arquivo index.html no seu navegador ou através do Live Server do Visual Studio Code
 ```
 ---
 ## 🤔 Como contribuir
@@ -87,4 +79,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-Feito com 💗 by [Raphael Barreto](https://bit.ly/contato-linkedin) graças ao [The Net Ninja](https://www.youtube.com/watch?v=mAqYJF-yxO8&list=PL4cUxeGkcC9i2v2ZqJgydXIcRq_ZizIdD)
+Feito com 💗 by [Raphael Barreto](https://bit.ly/contato-linkedin)
