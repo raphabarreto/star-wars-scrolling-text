@@ -20,9 +20,11 @@
     <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
   <a>
 
-  <a href="https://app.netlify.com/sites/star-wars-text-scrolling-raphabarreto.com.br/deploys">
-    <img alt="License" src="https://api.netlify.com/api/v1/badges/4d73975b-ef60-4539-88dc-8924d6161bb5/deploy-status">
+  <a href="https://app.netlify.com/sites/star-wars-text-scrolling/deploys">
+    <img alt="License" src="https://api.netlify.com/api/v1/badges/0ecab844-26c6-493e-a566-78bb1f760b85/deploy-status">
   <a>
+
+
 </p>
 
 
